@@ -1,6 +1,6 @@
 # SkillMap India
 
-![SkillMap India](https://cdn-icons-png.flaticon.com/512/2913/2913466.png)
+![SkillMap India](https://via.placeholder.com/150x50.png?text=SkillMap+India)
 
 SkillMap India is a data visualization tool built with Streamlit that provides insights into job distribution, skill demands, and employment trends across different states of India. This tool is designed to help job seekers, employers, and policymakers make data-driven decisions by analyzing job market trends.
 
