@@ -30,7 +30,7 @@ SkillMap India is a data visualization tool built with Streamlit that provides i
 
 - **Data_Job_Skillsets.txt**: This file contains a list of valid skillsets associated with various job categories. The skills were standardized to ensure consistency and accuracy in analysis.
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - **Streamlit**: For building the web application.
 - **Pandas**: For data manipulation and analysis.
